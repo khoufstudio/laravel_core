@@ -1,0 +1,13 @@
+{
+    "name": "DataBarang",
+    "alias": "databarang",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DataBarang\\Providers\\DataBarangServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
